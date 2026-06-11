@@ -1,0 +1,6 @@
+{
+  "name": "StandBy Clock",
+  "description": "An elegant bedside desk display and intelligent always-on-display clock that activates when charging and idle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
